@@ -1,5 +1,3 @@
-Java Music Playlist Manager
-Overview
 This is a Java music player that uses a custom doubly linked list to store and manage songs. It includes a graphical user interface (GUI) created using Java Swing.
 Features
 - Add, remove, and edit songs.
